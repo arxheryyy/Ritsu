@@ -14,4 +14,5 @@ pysqlite3 0.4.7
 add tasks  
 edit tasks  
 finish tasks  
-delete tasks
+delete tasks  
+test
